@@ -2,7 +2,7 @@
 	"private": true,
 	"type": "module",
 	
-	"name": "bot_19",
+	"name": "bot",
 	"version": "1.19.2",
 	
 	"scripts": {
